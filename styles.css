@@ -19,7 +19,7 @@ body {
   padding: 0;
 }
 .principal {
-  background-image: url(Imagens/Background.png);
+  background-image: url(imagens/background.png);
   background-repeat: no-repeat;
   background-size: contain;
   align-items: center;
